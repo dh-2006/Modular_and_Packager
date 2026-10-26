@@ -94,14 +94,14 @@ python3 main.py
 
 See the actual program output:
 
-[![View Output](https://img.shields.io/badge/👀_View_Output-red?style=for-the-badge)](https://github.com/dh-2006/oop_Wrapper/blob/main/output.png)
+[![View Output](https://img.shields.io/badge/👀_View_Output-red?style=for-the-badge)](https://github.com/dh-2006/Modular_and_Packager/blob/main/output.png)
 ---
 
 ## 🎥 Project Demo
 
 Watch the complete working demonstration:
 
-[![Watch Demo](https://img.shields.io/badge/▶️_Watch_Project_Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1hJaOdupPayvynsR8bR2cJ1uCcOB7iDF1/view?usp=sharing)
+[![Watch Demo](https://img.shields.io/badge/▶️_Watch_Project_Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1qN8WW2JmpytslbiuWPrTTzg4cVQzTxP7/view?usp=sharing)
 
 ---
 
